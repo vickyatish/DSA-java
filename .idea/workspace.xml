@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="939f6097-67c2-4e3f-8cf6-0649d71cc17f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/deleteNthNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/mergeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/mergeLinkedList.java" afterDir="false" />
-    </list>
+    <list default="true" id="939f6097-67c2-4e3f-8cf6-0649d71cc17f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.deleteNthNode.executor": "Run",
     "Application.linkedList.reverseLinkedList.executor": "Run",
     "Application.mergeLinkedList.executor": "Run",
     "Application.nextPermutation.executor": "Run",
@@ -50,7 +46,7 @@
       <recent name="$PROJECT_DIR$/src/linkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.deleteNthNode">
+  <component name="RunManager" selected="Application.middleLinkedList">
     <configuration name="deleteNthNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.deleteNthNode" />
       <module name="Java" />
@@ -90,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="middleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.middleLinkedList" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="nextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.nextPermutation" />
       <module name="Java" />
@@ -103,20 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseLinkedList" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.middleLinkedList" />
         <item itemvalue="Application.deleteNthNode" />
         <item itemvalue="Application.mergeLinkedList" />
         <item itemvalue="Application.nextPermutation" />
         <item itemvalue="Application.linkedList.reverseLinkedList" />
-        <item itemvalue="Application.reverseLinkedList" />
       </list>
     </recent_temporary>
   </component>
