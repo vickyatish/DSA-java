@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939f6097-67c2-4e3f-8cf6-0649d71cc17f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/nextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/setMatrixZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/mergeLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,23 +32,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.linkedList.reverseLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.linkedList.reverseLinkedList.executor": "Run",
+    "Application.mergeLinkedList.executor": "Run",
+    "Application.nextPermutation.executor": "Run",
+    "Application.reverseLinkedList.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/linkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nextPermutation">
+  <component name="RunManager" selected="Application.mergeLinkedList">
     <configuration name="linkedList.reverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.reverseLinkedList" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.mergeLinkedList" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -83,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeLinkedList" />
         <item itemvalue="Application.nextPermutation" />
         <item itemvalue="Application.linkedList.reverseLinkedList" />
         <item itemvalue="Application.reverseLinkedList" />
