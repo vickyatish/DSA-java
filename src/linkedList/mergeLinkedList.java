@@ -1,15 +1,5 @@
 package linkedList;
 
-class Node{
-    int data;
-    Node next;
-
-    public Node(int data){
-        this.data = data;
-        this.next = null;
-    }
-}
-
 public class mergeLinkedList {
         public static Node mergeLinkedList(Node l1, Node l2){
             Node dummy = new Node(-1);

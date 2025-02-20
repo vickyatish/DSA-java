@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939f6097-67c2-4e3f-8cf6-0649d71cc17f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedList/mergeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/deleteNthNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/mergeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/mergeLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,20 @@
       <recent name="$PROJECT_DIR$/src/linkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mergeLinkedList">
+  <component name="RunManager" selected="Application.deleteNthNode">
+    <configuration name="deleteNthNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.deleteNthNode" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="linkedList.reverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.reverseLinkedList" />
       <module name="Java" />
@@ -97,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.deleteNthNode" />
         <item itemvalue="Application.mergeLinkedList" />
         <item itemvalue="Application.nextPermutation" />
         <item itemvalue="Application.linkedList.reverseLinkedList" />
