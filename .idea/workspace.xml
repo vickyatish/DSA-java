@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939f6097-67c2-4e3f-8cf6-0649d71cc17f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/rotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/deleteNodeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/mergeIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,25 +32,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.deleteNthNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.linkedList.reverseLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergeLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.middleLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nextPermutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MergeIntervals.executor": "Run",
+    "Application.deleteNthNode.executor": "Run",
+    "Application.linkedList.reverseLinkedList.executor": "Run",
+    "Application.mergeLinkedList.executor": "Run",
+    "Application.middleLinkedList.executor": "Run",
+    "Application.nextPermutation.executor": "Run",
+    "Application.reverseLinkedList.executor": "Run",
+    "Application.rotateMatrix.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/linkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.rotateMatrix">
+  <component name="RunManager" selected="Application.MergeIntervals">
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MergeIntervals" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="deleteNthNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.deleteNthNode" />
       <module name="Java" />
@@ -91,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.nextPermutation" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="rotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.rotateMatrix" />
       <module name="Java" />
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.rotateMatrix" />
         <item itemvalue="Application.middleLinkedList" />
         <item itemvalue="Application.deleteNthNode" />
         <item itemvalue="Application.mergeLinkedList" />
-        <item itemvalue="Application.nextPermutation" />
       </list>
     </recent_temporary>
   </component>
