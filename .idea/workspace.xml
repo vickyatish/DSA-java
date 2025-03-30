@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939f6097-67c2-4e3f-8cf6-0649d71cc17f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,30 +27,32 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2sKEa2CvQbodkw9MyRX15w7ZJ0W" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DFS.executor": "Run",
-    "Application.MergeIntervals.executor": "Run",
-    "Application.deleteNthNode.executor": "Run",
-    "Application.findDuplicateN.executor": "Run",
-    "Application.linkedList.reverseLinkedList.executor": "Run",
-    "Application.mergeLinkedList.executor": "Run",
-    "Application.middleLinkedList.executor": "Run",
-    "Application.nextPermutation.executor": "Run",
-    "Application.reverseLinkedList.executor": "Run",
-    "Application.rotateMatrix.executor": "Run",
-    "Application.threeSum.executor": "Run",
-    "Application.twoSum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeIntervals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.deleteNthNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findDuplicateN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linkedList.reverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mergeLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.middleLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nextPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rotateMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.threeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twoSum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/linkedList" />
@@ -59,9 +61,9 @@
       <recent name="Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFS">
-    <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.DFS" />
+  <component name="RunManager" selected="Application.BFS">
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.BFS" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MergeIntervals" />
+    <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.DFS" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BFS" />
         <item itemvalue="Application.DFS" />
         <item itemvalue="Application.threeSum" />
         <item itemvalue="Application.twoSum" />
         <item itemvalue="Application.findDuplicateN" />
-        <item itemvalue="Application.MergeIntervals" />
       </list>
     </recent_temporary>
   </component>
